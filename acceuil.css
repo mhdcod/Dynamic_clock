@@ -1,0 +1,32 @@
+#clock-container{
+    
+    width: 500px;
+    height : 430px; 
+    border : 2px solid #d56666; 
+    font-family: Arial;
+    background: #000;
+    padding : 20px; 
+}
+
+.line {
+
+    text-align: justify;
+    margin-bottom: 10px;
+    width: 500px;
+    word-spacing: 29px;
+
+}
+
+.world {
+
+    text-transform: uppercase;
+    color: #393838;
+    font-size: 38px;
+
+}
+
+.world.surbrillant {
+
+    color: #fff;
+
+}
