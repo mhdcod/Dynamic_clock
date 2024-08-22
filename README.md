@@ -1,32 +1,30 @@
 Dynamic Illuminated Clock
-Project Overview
+
+Project Overview : 
+
 The Dynamic Illuminated Clock is a unique and interactive clock application built with HTML, CSS, and JavaScript. Instead of displaying time using numbers, this clock highlights specific words to represent the current time in a natural language format. The design is minimalistic and responsive, providing a seamless experience across various devices.
 
-Features
+Features : 
+
 Real-Time Updates: The clock refreshes every minute to ensure the displayed time is always accurate.
 Natural Language Display: Time is represented in words rather than numbers, making it intuitive and engaging.
 Smooth Animations: Highlighted words transition smoothly to enhance the visual appeal.
 Responsive Design: The clock is optimized to look great on desktops, tablets, and mobile devices.
 User-Friendly Interface: The simple and clean design makes it easy for anyone to read the time.
-Technologies Used
-HTML5: For structuring the clock interface.
-CSS3: For styling and creating responsive layouts.
-JavaScript (jQuery): For handling the logic behind time calculation and dynamic updates.
-Installation and Usage
-Clone the repository to your local machine:
-bash
-Copier le code
-git clone https://github.com/yourusername/dynamic-illuminated-clock.git
-Navigate to the project directory:
-bash
-Copier le code
-cd dynamic-illuminated-clock
-Open index.html in your web browser to view the clock.
-How It Works
-The clock calculates the current hour and minute using JavaScript.
-Based on the time, it determines which words should be highlighted to represent the time in natural language.
-The clock automatically updates every minute to ensure accuracy.
 
-Future Improvements:
-Additional Languages: Add support for different languages by creating alternative word sets.
-Enhanced Styling: Implement animations or transitions for a more dynamic visual effect.
+Installation and Usage : 
+
+Download or Clone the Repository: Obtain the project files by downloading them as a ZIP file or by cloning the repository from GitHub.
+Open the Project: Navigate to the project folder on your local machine.
+Launch the Clock: Open the index.html file using a live server or by directly opening the file in your web browser.
+View the Clock: Once the file is open, the clock will display the current time, updating every 5 minutes.
+
+Enhancements / Future Upgrades : 
+
+Language Selection Option
+Planned Feature: We aim to introduce a language selection feature, allowing users to choose their preferred language for the time display.
+Implementation Idea: Users will be able to switch between multiple languages (e.g., English, French, Spanish) directly from the interface. The clock will dynamically update to highlight the time in the selected language, enhancing accessibility and user experience for a global audience.
+
+Demo : 
+
+You can see a live demo of the outcome.png file. 
