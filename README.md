@@ -2,11 +2,11 @@ Dynamic Illuminated Clock
 
 Project Overview : 
 
-The Dynamic Illuminated Clock is a unique and interactive clock application built with HTML, CSS, and JavaScript. Instead of displaying time using numbers, this clock highlights specific words to represent the current time in a natural language format. The design is minimalistic and responsive, providing a seamless experience across various devices.
+The Dynamic Illuminated Clock is a unique and interactive clock application built with HTML, CSS, and JavaScript. Instead of displaying time using numbers, this clock highlights specific words to represent the current time in a natural language format (french). The design is minimalistic and responsive, providing a seamless experience across various devices.
 
 Features : 
 
-Real-Time Updates: The clock refreshes every minute to ensure the displayed time is always accurate.
+Real-Time Updates: The clock refreshes every 5 minutes to ensure the displayed time is always accurate.
 Natural Language Display: Time is represented in words rather than numbers, making it intuitive and engaging.
 Smooth Animations: Highlighted words transition smoothly to enhance the visual appeal.
 Responsive Design: The clock is optimized to look great on desktops, tablets, and mobile devices.
@@ -27,4 +27,4 @@ Implementation Idea: Users will be able to switch between multiple languages (e.
 
 Demo : 
 
-You can see a live demo of the outcome.png file. 
+You can see a screenshot demo on the outcome.png file. 
