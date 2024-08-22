@@ -3,6 +3,7 @@
 This project is a dynamic word clock that displays the current time in a sentence-like format using HTML, CSS, and JavaScript. The clock updates every 5 minutes and highlights specific words to represent the time, offering a unique and visually appealing way to track time.
 
 Features:
+
 Real-Time Updates: The clock refreshes every 5 minutes to display the time. 
 Word-Based Display: The time is shown through highlighted words, creating a sentence-like representation.
 Responsive Design: The clock is designed to be responsive, adapting to different screen sizes.
