@@ -1,4 +1,4 @@
-# Dynamic Word Clock-
+# Dynamic Word Clock
 
 This project is a dynamic word clock that displays the current time in a sentence-like format using HTML, CSS, and JavaScript. The clock updates every 5 minutes and highlights specific words to represent the time, offering a unique and visually appealing way to track time.
 
